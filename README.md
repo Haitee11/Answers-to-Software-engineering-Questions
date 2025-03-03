@@ -5,8 +5,8 @@ SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1.Explain what software engineering is and discuss its importance in the technology industry
-Software engineering is a branch of computer science focused on designing, developing, testing, and maintaining software applications. Software engineering aims to create reliable, efficient, and scalable software to meet user and business needs.
+1.Explain what software engineering is and discuss its importance in the technology industry?
+     **Software engineering** is a branch of computer science focused on designing, developing, testing, and maintaining software applications. Software engineering aims to create reliable, efficient, and scalable software to meet user and business needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 i. Waterfall: This is a sequential approach with distinct phrases flowing down wards like a waterfall
@@ -25,7 +25,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
     
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is a linear, step-by-step approach, ideal for stable projects like government or financial systems, while Agile is iterative and flexible, suited for evolving projects like mobile apps.
+**Waterfall** is a linear, step-by-step approach, ideal for stable projects like government or financial systems, while Agile is iterative and flexible, suited for evolving projects like mobile apps.
 
 Key Differences:
 
@@ -46,14 +46,14 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 3.  Project Manager – Plans and oversees project timelines, coordinates teams, manages risks, and ensures project goals align with stakeholder expectations.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs) improve productivity with features like code completion, debugging, and syntax highlighting. Examples include Visual Studio Code, IntelliJ IDEA, and Eclipse, providing an all-in-one development workspace.
+**Integrated** Development Environments (IDEs) improve productivity with features like code completion, debugging, and syntax highlighting. Examples include Visual Studio Code, IntelliJ IDEA, and Eclipse, providing an all-in-one development workspace.
 
 Version Control Systems (VCS) track code changes, enable collaboration, and prevent data loss. Tools like Git, SVN, and Mercurial, along with platforms like GitHub and GitLab, streamline development and teamwork.
 
 Both IDEs and VCS enhance efficiency, reduce errors, and ensure high-quality software.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Software engineers often face challenges like the following:
+**Software** engineers often face challenges like the following:
 
 1.  Keeping Up with Technology – Rapid changes require continuous learning.
 Solution: Follow tech blogs, take online courses, and attend industry events.
@@ -71,7 +71,7 @@ Solution: Use project management tools (e.g., Jira, Trello) and maintain clear d
 Solution: Follow security best practices, conduct code reviews, and optimize performance.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
+**Unit tests** - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
  - help to ensure data flows smoothly between modules and interfaces work as expected.
  System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
@@ -82,7 +82,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
- Prompt engineering involves crafting effective prompts to optimize AI interactions, ensuring accurate and relevant responses.
+ **Prompt engineering** involves crafting effective prompts to optimize AI interactions, ensuring accurate and relevant responses.
 Importance:
 Improves AI Accuracy – Well-structured prompts yield precise answers.
 Boosts Efficiency – Reduces trial and error, saving time.
@@ -102,12 +102,6 @@ The improved prompt is more effective because it is;
 2.  Clearer scope – Asks for both benefits and challenges.
 3.  Concise and direct – Ensures a relevant, insightful response.
 
-
-Draw a picture of a person- (Vagued Prompt)
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
-Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
-Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
 
 
 
